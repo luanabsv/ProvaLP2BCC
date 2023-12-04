@@ -2,7 +2,7 @@
   "name": "provalp2bim",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luanabsv.github.io/ProvaLP2BCC",
+  "homepage": "https://luanabsv.github.io/ProvaLP2BCC/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.0",
     "@testing-library/jest-dom": "^5.17.0",
